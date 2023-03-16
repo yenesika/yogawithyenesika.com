@@ -1,18 +1,18 @@
 {% assign c = "c-project-card" %}
-<article class="{{c}} col col-4 col-d-6 col-t-12">
-  <div class="{{c}}__content">
-    <a href="{{ include.project.url }}" class="{{c}}__image">
-      <img loading="lazy" src="{{ include.project.image }}" alt="{{ include.project.title }}">
-    </a>
-    <div class="{{c}}__info">
-      <div class="{{c}}__info-wrap">
-        <h3 class="{{c}}__title">{{ include.project.title }}</h3>
+
+<div class="row">
+  <div class="col col-3 col-m-12">
+    <article class="{{c}}">
+      <div class="{{c}}__content">
+        <a class="{{c}}__image">
+          <img loading="lazy" src="{{ include.project.image }}" alt="{{ include.project.title }}">
+        </a>
       </div>
-      <div class="{{c}}__info-wrap">
-        {% if include.project.subtitle %}
-        <div class="{{c}}__subtitle">{{ include.project.subtitle }}</div>
-        {% endif %}
-      </div>
-    </div>
+    </article>
   </div>
-</article>
+  <div class="col col-9 col-m-12">
+    <h3>{{ include.project.title }}</h3>
+    <h5>{{ include.project.subtitle }}</h5>
+    <p>{{ include.project.content }}</p>
+  </div>
+</div>

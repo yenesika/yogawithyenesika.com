@@ -6,8 +6,8 @@ icon = "wysiwyg"
 tags = ["Structure", "Text", "Links"]
 
 [props]
-title = "Hi there, I am Vanessa Marley"
-description_html = "<strong>Photographer</strong> and <strong>Visual Content Strategist</strong> from Albany. I work as a lifestyle, product, and landscape photographer, creating images for a diverse range of requests, from online media to printed artwork."
+title = "Hi, my name is Pepijn Schoen"
+description_html = "<p>I'm a <strong>CTO</strong> and <strong>lean entrepreneur</strong>.</p><p>I have worked in London, Amsterdam and Hamburg in positions of CTO and software engineer. I’m a product guy, a storyteller, with a strong technical background and education, but also with an interest in marketing and great user experience. For me, a transparent work environment where I can contribute on a high level is most exciting.</p><p>I really like cats, they are soft and fluffy. After working for a year at a coffee store, I am now a certified snob. My musical skills are unfortunately absent, but I compensate this with enthusiasm. I write poetry, sometimes, and ride my bicycle.</p>"
 image = "/images/01.jpg"
 image_alt = "Vanessa Marley's picture"
 cta_button = "Get in touch"

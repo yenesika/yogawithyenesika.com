@@ -1,33 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
   'use strict';
-
-  /* =======================
-  // Menu
-  ======================= */
-  var body = document.querySelector("body"),
-  menuOpenIcon = document.querySelector(".nav__icon-menu"),
-  menuCloseIcon = document.querySelector(".nav__icon-close"),
-  menuList = document.querySelector(".main-nav");
-
-  menuOpenIcon.addEventListener("click", () => {
-    menuOpen();
-  });
-
-  menuCloseIcon.addEventListener("click", () => {
-    menuClose();
-  });
-
-  function menuOpen() {
-    menuList.classList.add("is-open");
-  }
-
-  function menuClose() {
-    menuList.classList.remove("is-open");
-  }
-
   /* =======================
   // Animation Load Page
   ======================= */
+  var body = document.querySelector("body");
   setTimeout(function(){
     body.classList.add("is-in");
   },150)

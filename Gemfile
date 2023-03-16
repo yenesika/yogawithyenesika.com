@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+group :jekyll_plugins do
+  gem "jekyll-bookshop", "2.2.2"
+  gem "cloudcannon-jekyll-bookshop", "2.2.2"
+  gem 'jekyll-watch', :git => "https://github.com/CloudCannon/jekyll-watch"
+  gem 'jekyll-tagging'
+  gem "jekyll-sitemap"
+end
+
+gem 'webrick', "1.7.0"
