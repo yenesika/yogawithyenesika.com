@@ -1,7 +1,7 @@
 ---
 title:  Right practice in the right direction
 date:   2023-01-01 15:01:35 +0300
-image:  '/images/post-9.jpg'
+image:  '/images/blog-2.jpg'
 tags:   [yoga, practice]
 ---
 Yoga asana practice is a continuous process of growing, evolving and setting new goals for oneself. Those who indulge in self-practice often start off with a goal. This goal can be different for different people. Some may want to achieve the perfect alignment in an asana, some may wish to become more agile and flexible while some might be in search of a few moments of peace and calm. Yoga asana practice will make us work hard for our respective goals while also teaching us to be patient and kind to our own selves. While everybody’s self-practice can be completely different from one another, it is very important to undertake the right kind of practice in the right direction.
