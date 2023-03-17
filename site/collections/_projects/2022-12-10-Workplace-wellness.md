@@ -2,12 +2,12 @@
 date: 2021-01-12 07:50:35 +0300
 title: Workplace Wellness
 subtitle: Berlin, 2022 - now
-image: '/images/project-1-workplace-wellness-2.png'
+image: '/images/project-1-workplace-wellness-2.jpg'
 ---
 Desk-bound jobs for prolonged periods can take a toll on our bodies, leading to serious repercussions. But with the help of yoga, we can rejuvenate and revitalize our physical and mental well-being.
 At Yenesika’s, we offer customized yoga programs and sessions that cater to the unique needs of field personnel, home-makers, students and faculty members. Let us design a program that suits your group's needs and helps promote overall wellness!
 
-![workplace-wellness](/images/project-1-workplace-wellness-1.png){: width="1200" height="900"}
+![workplace-wellness](/images/project-1-workplace-wellness-1.jpg){: width="1200" height="900"}
 
 
 (Redirects to “contact me”)
