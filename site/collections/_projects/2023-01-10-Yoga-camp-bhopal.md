@@ -1,7 +1,7 @@
 ---
-date: 2021-01-12 07:50:35 +0300
-title: Yogacamp, Bhopal
-subtitle: Berlin, 2022 - now
+date: 2023-01-10 07:50:35 +0300
+title: Yogacamp
+subtitle: Bhopal, 2023
 image: '/images/project-2-yoga-camp-2.jpg'
 ---
 
