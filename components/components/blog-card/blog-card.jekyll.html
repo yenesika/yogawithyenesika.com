@@ -5,7 +5,7 @@
     {% if include.post.image %}
     <div class="{{c}}__image-wrap">
       <a class="{{c}}__image" href="{{ include.post.url }}">
-        <img loading="lazy" src="{{site.baseurl}}/{{ include.post.image }}" alt="{{ include.post.title }}">
+        <img loading="lazy" src="{{site.baseurl}}{{ include.post.image }}" alt="{{ include.post.title }}">
       </a>
     </div>
     {% endif %}
@@ -21,7 +21,7 @@
       {% endif %}
 
       <h2 class="{{c}}__title">
-        <a href="{{site.baseurl}}/{{ include.post.url }}">{{ include.post.title }}</a>
+        <a href="{{site.baseurl}}{{ include.post.url }}">{{ include.post.title }}</a>
       </h2>
 
       <p class="{{c}}__excerpt">
