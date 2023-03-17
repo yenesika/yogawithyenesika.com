@@ -4,6 +4,7 @@ date:   2023-01-01 15:01:35 +0300
 image:  '/images/blog-1.jpg'
 tags:   [yoga, practice]
 ---
+
 ![How I started my daily Yoga journey](/images/blog-1.jpg){: width="1200" height="900"}
 
 The word ‘Yoga’ or ‘Yog’ literally translates to ‘union’ in the English language. In the practical sense, Yoga asana practice is the union of our mind and body with our breath. Regular practitioners will instead say that Yoga is the union of our mind and body with our soul, adding an element of spirituality to it.
