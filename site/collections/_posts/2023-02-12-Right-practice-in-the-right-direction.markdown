@@ -1,6 +1,6 @@
 ---
 title:  Right practice in the right direction
-date:   2023-01-01 15:01:35 +0300
+date:   2023-02-12 15:01:35 +0300
 image:  '/images/blog-2.jpg'
 tags:   [yoga, practice]
 ---
