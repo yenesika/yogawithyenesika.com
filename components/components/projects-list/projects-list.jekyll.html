@@ -1,7 +1,9 @@
 {% if include.show_projects %}
 <div class="container animate">
-  {% for project in site.projects reversed %}
+  <div class="row">
+    {% for project in site.projects %}
     {% bookshop project-card project=project %}
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
 {% endif %}

@@ -8,6 +8,14 @@
           <div class="section__head">
             <h2 class="section__title">{{ include.title }}</h2>
           </div>
+          <ul class="controls list-reset" id="customize-controls" aria-label="Slider Navigation" tabindex="0">
+            <li class="prev" data-controls="prev" aria-controls="customize" tabindex="-1">
+              <i class="ion ion-ios-arrow-back"></i>
+            </li>
+            <li class="next" data-controls="next" aria-controls="customize" tabindex="-1">
+              <i class="ion ion-ios-arrow-forward"></i>
+            </li>
+          </ul>
           <div class="section__description">{{ include.description_html }}</div>
         </div>
 
