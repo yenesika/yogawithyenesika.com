@@ -2,7 +2,7 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
+    - title: 'Workplace Wellness'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
