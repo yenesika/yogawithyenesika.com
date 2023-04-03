@@ -1,9 +1,11 @@
 ---
 title:  Right practice in the right direction
 date:   2023-02-12 15:01:35 +0300
-image:  '/images/blog-2.jpg'
+image:  
 tags:   [yoga, practice]
 ---
+![Right practice in the right direction](/images/blog-2.jpg){: width="1200" height="900"}
+
 Yoga asana practice is a continuous process of growing, evolving and setting new goals for oneself. Those who indulge in self-practice often start off with a goal. This goal can be different for different people. Some may want to achieve the perfect alignment in an asana, some may wish to become more agile and flexible while some might be in search of a few moments of peace and calm. Yoga asana practice will make us work hard for our respective goals while also teaching us to be patient and kind to our own selves. While everybody’s self-practice can be completely different from one another, it is very important to undertake the right kind of practice in the right direction.
 
 Asanas are a process of attaining a particular posture through the movement of our joints with the help of muscles. Therefore, in order to protect our joints, it is imperative that we engage and activate our muscles. The important question here is whether our self-practice is leading us towards peace or towards pain? Asana practice should relieve pain and not cause it. One must learn how to activate their muscles or a particular group of muscles to attain the right alignment in a posture/asana. Our skeleton is protected by muscles. How many times do you hear the term “engage your core” and wonder what it truly means? Does “engaging your core” mean that we suck our belly in? Do we also have to hold our breath? Are our abs our core? Our core muscles are a group of muscles in our torso and hips and they are not limited to the abs. Core muscles are responsible for the protection of our spine. If you find yourself having trouble sitting upright with a straight spine and if your back begins to hurt shortly, it is because your core muscles need work.
