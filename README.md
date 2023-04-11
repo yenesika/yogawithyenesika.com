@@ -1,8 +1,11 @@
 ## Setup
 
 Newsletter Service is managed by - https://mailchimp.com/
+
 Inbound email is managed by https://mailthis.to
+
 Edit blog posts in https://stackedit.io/app#
+
 Domain is managed by https://domains.google.com/registrar/yogawithyenesika.com
 
 
