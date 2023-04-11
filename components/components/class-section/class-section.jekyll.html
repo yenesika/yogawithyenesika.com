@@ -15,7 +15,7 @@
 
           {% if include.show_projects %}
           <div class="row">
-            {% for class in site.classes %}
+            {% for class in site._classes %}
             {% if forloop.index <= 6 %}
             {% bookshop class-card project=class %}
             {% endif %}
