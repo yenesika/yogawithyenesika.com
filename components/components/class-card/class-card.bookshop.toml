@@ -6,7 +6,7 @@ icon = "wysiwyg"
 tags = []
 
 [props.project]
-date =
-title =
-subtitle =
+date = ''
+title = ''
+subtitle = ''
 image = '/images/class-1.jpg'
