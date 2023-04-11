@@ -1,12 +1,12 @@
 [component]
 structures = []
-label = "Project Card"
-description = "Project card used for project lists"
+label = "Class Card"
+description = "Class card used for project lists"
 icon = "wysiwyg"
 tags = []
 
 [props.project]
-title = "Hello World"
-subtitle = "Lorem Ipsum"
-image = "https://placekitten.com/800/400"
-url = "/"
+date =
+title =
+subtitle =
+image = '/images/class-1.jpg'
