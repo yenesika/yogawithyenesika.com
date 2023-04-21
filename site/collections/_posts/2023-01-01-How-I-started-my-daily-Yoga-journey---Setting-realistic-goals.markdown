@@ -1,6 +1,6 @@
 ---
 title:  How I started my daily Yoga journey - setting realistic goals
-date:   2023-01-01 15:01:35 +0300
+date:   2023-02-19 15:01:35 +0300
 image:  
 tags:   [yoga, practice]
 ---
