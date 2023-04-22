@@ -1,6 +1,6 @@
 ---
 date: 2023-01-02 07:50:35 +0300
-title: Yoga Camp in Barbil
+title: Wellness & Yoga Camp in Barbil, Odisha
 subtitle: Rungta Colony for Rungta Sons Pvt. Ltd., 2023
 image: '/images/project-1-workplace-wellness-2.jpg'
 ---
@@ -8,6 +8,8 @@ image: '/images/project-1-workplace-wellness-2.jpg'
 
 Desk-bound jobs for prolonged periods can take a toll on our bodies, leading to serious repercussions. But with the help of yoga, we can rejuvenate and revitalize our physical and mental well-being.
 At Yenesika’s, we offer customized yoga programs and sessions that cater to the unique needs of field personnel, home-makers, students and faculty members. Let us design a program that suits your group's needs and helps promote overall wellness!
+
+In January 2023, Yenesika held a transformative 3-day Wellness & Yoga Camp in the Rungta Colony of Barbil, Odisha. With a focus on nurturing overall wellness with yoga, attendees were immersed in the practice. This event captured the essence of rejuvenation, leaving participants with of inner peace and tranquility and practices that can be used in their daily lives.
 
 ![workplace-wellness](/images/project-1-workplace-wellness-1.jpg){: width="1200" height="900"}
 
