@@ -1,7 +1,7 @@
 ---
 title:  Yoga is not stretching and flexibility
 date:   2023-03-22 15:01:35 +0300
-image:  Ashtanga-Yoga.jpg
+image:  /images/blog-5-ashtanga-yoga.jpg
 tags:   [yoga, wellness]
 ---
 

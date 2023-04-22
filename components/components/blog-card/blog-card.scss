@@ -110,7 +110,7 @@
 
     a {
       &:hover {
-        color: $text-color;
+        color: $primary-color;
       }
     }
 
@@ -124,7 +124,7 @@
     font-size: 15px;
     line-height: 1.6;
     margin-bottom: 20px;
-    color: $text-color;
+    color: $primary-color;
     overflow-y: hidden;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;

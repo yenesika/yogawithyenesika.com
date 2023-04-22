@@ -1,23 +1,23 @@
 /* Color Scheme */
-$primary-color: #307c91;
-$secondary-color: #b6dce9;
+$primary-color: #0A4D57;
+$secondary-color: #f2e0c9;
 $white: #fff;
-$dark: #023f4a;
+$dark: #161f27;
 $gray: #8b929a;
 $light-gray: #e5e3e4;
 $blue-gray: #d5dce3;
 
-$background-color: #f2f6ff;
-$background-color-alt: $white;
+$background-color: #0A4D57;
+$background-color-alt: #c3ccbc;
 
-$text-color: $dark;
+$text-color: #f2e0c9;
 
-$heading-font-color: $text-color;
+$heading-font-color: #f2e0c9;
 
 $link-color: $text-color;
 $link-color-hover: $text-color;
 
-$button-color: $background-color-alt;
+$button-color: $secondary-color;
 $button-background-color: $primary-color;
 $button-background-hover: darken($primary-color, 5%);
 

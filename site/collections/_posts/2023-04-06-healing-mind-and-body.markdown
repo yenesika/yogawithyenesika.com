@@ -2,7 +2,7 @@
 title:  Healing mind and body with Yoga
 date:   2023-04-06 15:01:35 +0300
 image:  
-tags:   [yoga, practice, anti-aging, mental health]
+tags:   [yoga, practice, anti-aging, mental-health]
 ---
 
 ![Healing mind and body with Yoga](/images/image-blog4.heif){: width="1200" height="900"}
