@@ -7,7 +7,7 @@ tags:   [yoga, practice, anti-aging, mental-health]
 
 ![Healing mind and body with Yoga](/images/image-blog4.heif){: width="1200" height="900"}
 
-Yoga is not just a physical exercise, but also a mindful practice that teaches us to be aware of our body and movements. Through yoga asanas, we learn how to properly activate and engage the muscles in our body. **Muscle engagement enables us to protect our joints and prevent injuries**.
+Yoga is not just a physical exercise, but also a mindful practice that teaches us to be aware of our body and movements. Through yoga asanas, we learn how to properly activate and engage the muscles in our body. **Muscle engagement enables us to protect our joints and prevent injuries**
 
 Incorporating yoga into our daily routine, even before an injury occurs, can have numerous benefits for our overall health and well-being. Regular yoga practice can help to increase flexibility, improve balance and coordination, strengthen muscles, and reduce stress and tension in the body.
 
