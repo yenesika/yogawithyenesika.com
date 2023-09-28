@@ -1,7 +1,7 @@
 ---
 title:  Pranamaya Kosha and benefits of Pranayama
 date:   2023-09-19 15:01:35 +0300
-image:  /images/pranayam-blog.jpg
+image:  /images/yoy-5-koshas.jpg
 tags:   [yoga, pranayam, ayurveda]
 ---
 
