@@ -1,8 +1,8 @@
 ---
 title:  Pranamaya Kosha and benefits of Pranayama
 date:   2023-09-19 15:01:35 +0300
-image:  /images/blog-1.jpg
-tags:   [yoga, practice]
+image:  /images/pranayam-blog.jpg
+tags:   [yoga, pranayam, ayurveda]
 ---
 
 The word ‘Yoga’ or ‘Yog’ literally translates to ‘union’ in the English language. In the practical sense, Yoga asana practice is the union of our mind and body with our breath. Regular practitioners will instead say that Yoga is the union of our mind and body with our soul, adding an element of spirituality to it.
