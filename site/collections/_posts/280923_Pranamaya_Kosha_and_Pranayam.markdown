@@ -1,10 +1,9 @@
 ---
 title:  Pranamaya Kosha and benefits of Pranayama
-date:   2023-04-20 15:01:35 +0300  
-image:  /images/yoy-5-koshas.jpg  
+date:   2023-04-20 15:01:35 +0300
+image:  /images/pranayam-blog.jpg
 tags:   [yoga, pranayam, ayurveda]
 ---
-
 
 The Pranayama is a practice to regulate or expand our breath. Our breath is intimately connected to the body's energy and nervous systems. By regulating the breath, pranayama can help to balance the body's energy and calm the mind. This can have a range of health benefits, including reducing stress and anxiety, improving digestion, boosting the immune system, and increasing overall vitality.
 
