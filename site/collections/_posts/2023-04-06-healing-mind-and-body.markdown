@@ -1,11 +1,9 @@
 ---
 title:  Healing mind and body with Yoga
 date:   2023-04-06 15:01:35 +0300
-image:  
+image:  /images/pranayam-blog.jpg
 tags:   [yoga, practice, anti-aging, mental-health]
 ---
-
-![Healing mind and body with Yoga](/images/pranayam-blog.jpg){: width="1200" height="900"}
 
 Yoga is not just a physical exercise, but also a mindful practice that teaches us to be aware of our body and movements. Through yoga asanas, we learn how to properly activate and engage the muscles in our body. **Muscle engagement enables us to protect our joints and prevent injuries**
 
