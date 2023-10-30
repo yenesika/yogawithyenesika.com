@@ -1,5 +1,5 @@
 ---
-title:  Healing mind and body with Yoga as a lifestyle!
+title:  Healing mind and body with Yoga
 date:   2023-04-06 15:01:35 +0300
 image:  /images/pranayam-blog.jpg
 tags:   [yoga, practice, anti-aging, mental-health]
