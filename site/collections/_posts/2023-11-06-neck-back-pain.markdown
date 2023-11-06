@@ -1,5 +1,5 @@
 ---
-title:  Yoga and Pain Management: a solution to relieve Back and Neck Pain
+title:  Yoga and Pain Management - a solution to relieve Back and Neck Pain
 date:   2023-11-05 15:01:35 +0300
 image:  /images/YoY-neckpain.jpg
 tags:   [yoga, practice, pain management, relief]
