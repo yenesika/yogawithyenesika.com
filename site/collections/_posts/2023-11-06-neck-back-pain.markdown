@@ -30,5 +30,4 @@ Yogabhyasa places a strong emphasis on breath control and mindfulness. Deep, con
 For individuals who spend long hours sitting, Yogabhyasa offers a holistic approach to relieving back and neck pain. By understanding the principles of muscle activation, joint mobilization and incorporating mindful movement and breath control, Yoga becomes a transformative practice. Regular Yoga sessions under the guidance of a trained and qualified professional will not only alleviate existing pain but also prevent future discomfort by promoting strong, flexible muscles, healthy joints and improved posture.
 
 Embracing Yoga as a part of daily life can lead to a pain-free, healthier, and more balanced lifestyle for those grappling with the challenges of a sedentary existence.
-
 Stay mindful, be healthy!
